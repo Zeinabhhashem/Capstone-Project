@@ -46,7 +46,6 @@ prompt-toolkit==3.0.30
 protobuf==3.20.1
 psutil==5.9.1
 pure-eval==0.2.2
-pyarrow==9.0.0
 pywin32==304
 pyzmq==23.2.1
 requests==2.28.1
