@@ -44,7 +44,6 @@ Pillow==9.2.0
 plotly==5.10.0
 prompt-toolkit==3.0.30
 protobuf==3.20.1
-psutil==5.9.1
 pywin32==304
 pyzmq==23.2.1
 requests==2.28.1
