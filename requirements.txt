@@ -51,7 +51,6 @@ pydeck==0.7.1
 Pygments==2.13.0
 Pympler==1.0.1
 pyparsing==3.0.9
-pyrsistent==0.18.1
 pywin32==304
 pyzmq==23.2.1
 requests==2.28.1
