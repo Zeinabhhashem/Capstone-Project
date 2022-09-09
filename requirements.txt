@@ -1,7 +1,6 @@
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 # platform: win-64
-arrow-cpp=8.0.0=py38hbd6f097_0
 asttokens=2.0.8=pyhd8ed1ab_0
 atomicwrites=1.4.1=pypi_0
 attrs=22.1.0=pyh71513ae_1
